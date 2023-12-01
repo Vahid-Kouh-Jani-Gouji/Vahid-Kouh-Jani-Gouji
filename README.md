@@ -1,40 +1,27 @@
-### Hi there
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+# Hi there, I'm Vahid 👋🏻
+I'm a DevOps Engineer 
 
-## About me
+## Current Projects <br/>
+> ⭐️ [Spassvogel](https://github.com/Vahid-Kouh-Jani-Gouji/Spassvogel) - this project is Serverless in AWS deployed with GraphQL , Amplify , DynamoDB , AWS Cognito for authentication and authorisation and S3 .
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+> 🔥 [Haushaltsbuch](https://github.com/Vahid-Kouh-Jani-Gouji/Haushaltsbuch) - this project is without Bootstrap or any external libraries or any other platform  and has no dependencies .
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+> ✨ [CICD](https://github.com/Vahid-Kouh-Jani-Gouji/Prometheus-Grafana-Ansible-Terraform) - a small project to integrate DevOps tools .
 
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
+## My Values
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
 
-YOUR TABLE
+## Hobbies
+☕️ Espresso Enthusiast <br/>
+☁️ Cozy Gamer </br>
+🧗🏼 Rock Climber </br>
+🧘🏼‍♀️ Yoga lover
 
-</details>
+## Connect with Me
+- [Portfolio](http://vahidtest2023lebenslauf.s3-website-us-east-1.amazonaws.com/) <br/>
 
-<details>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
-
-</details>
-
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
+- [Linkedin](https://www.linkedin.com/in/vahid-kouh-jani-gouji/) <br/>
