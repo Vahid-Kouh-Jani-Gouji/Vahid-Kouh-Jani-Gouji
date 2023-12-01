@@ -8,6 +8,8 @@ I'm a DevOps Engineer
 
 > ✨ [CICD](https://github.com/Vahid-Kouh-Jani-Gouji/Prometheus-Grafana-Ansible-Terraform) - a small project to integrate DevOps tools .
 
+> ⭐️ [.NET&AWS] (https://github.com/Vahid-Kouh-Jani-Gouji/pload-delete-list-files-from-S3-Bucket-AWS-with-Web-API-.net-core) this project is with .net-core and AWS to implement Restfully API .
+ 
 
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
